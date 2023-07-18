@@ -109,7 +109,7 @@ const clrscr =()=>{
           boxShadow: "none",
         }}
       >
-        <TableContainer sx={{ maxHeight: 500}}>
+        <TableContainer sx={{ maxHeight: 600}}>
           <Table stickyHeader className="tablesize">
             <TableHead>
               <TableRow>
