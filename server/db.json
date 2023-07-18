@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "Harini",
+      "email": "khaeini@gmail.commm",
+      "age": "21"
+    },
+    {
+      "id": 2,
+      "username": "Siva",
+      "email": "sjdsn@gmail.om",
+      "age": "23"
+    },
+    {
+      "id": 3,
+      "username": "Jmsdn",
+      "email": "dsnfhj@gmail.com",
+      "age": "32"
+    },
+    {
+      "id": 4,
+      "username": "smndhbn",
+      "email": "sndhnj@gmail.com",
+      "age": "23"
+    },
+    {
+      "id": 5,
+      "username": "jshdje",
+      "email": "nsdmhj@gmail.com",
+      "age": "12"
+    },
+    {
+      "id": 6,
+      "username": "Durai",
+      "email": "durai@gmail.com",
+      "age": "35"
+    }
+  ]
+}
