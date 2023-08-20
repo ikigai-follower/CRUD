@@ -1,3 +1,5 @@
+/* LOGIN PAGE STYLING */
+
 *{
     margin: 0;
     padding: 0;
@@ -22,9 +24,6 @@ body{
     border-radius: 30px;
     box-sizing: border-box;
     color: white;
-   
-    
-
 }
 .login input[type]{
     width: 100%;
@@ -38,17 +37,14 @@ body{
     padding: 15px;
     color: white;
 }
-.login input[type="submit"]{
-    background-color: blue;
-    opacity: 0.5;
-}
-.login input[type="submit"]:hover{
-    background-color: blue;
-    opacity: 1;
-}
+
 span{
     color: red;
 }
+.btn{
+    width: 100%;
+    margin-top: 20px !important;
+  }
 
 .btneye{
     margin-left: -50px;

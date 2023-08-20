@@ -1,0 +1,15 @@
+
+.coloredbtn {
+    background: #232536 !important;
+    color: #fff !important;
+  }
+  .dflexend {
+    display: flex;
+    justify-content: start;
+    margin: 20px 5px;
+  }
+  .dflexx{
+    display: flex;
+    justify-content: end;
+    align-items: end;
+  }
